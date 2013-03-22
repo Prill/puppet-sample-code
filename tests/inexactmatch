@@ -1,0 +1,4 @@
+This file has a line that contains the target string in the middle of a string.
+If the program is searching for an exact string match, it won't find it, and
+will add a new line
+Middle of the line position = puppetdb-intern jksjdksd
