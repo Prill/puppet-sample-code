@@ -1,0 +1,3 @@
+This program consists of two parts: a script to download the url as requested
+and process it, and a script to test it on some sample files I have placed in a
+public location.
