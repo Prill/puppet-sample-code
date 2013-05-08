@@ -2,7 +2,7 @@
 import urllib2
 import sys
 
-SEARCH_STRING = "position = puppetdb-intern"
+SEARCH_STRING = "position = salesengineering-intern"
 
 if len(sys.argv) != 3:
     print "Usage: geturl.py <url> <filepath>"
